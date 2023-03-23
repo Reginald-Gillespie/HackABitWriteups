@@ -3,8 +3,7 @@
 # Hack A Bit: Cryptography
 
 ---
----
-<br/><br/><br/><br/>
+<br/><br/>
 # 6532S, Homerun
 
 Problem:
