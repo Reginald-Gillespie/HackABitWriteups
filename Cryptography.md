@@ -1,4 +1,6 @@
-<p style="text-align: center; font-size: 40px;"><strong>Hack A Bit: Cryptography</strong></p>
+<!-- <p style="text-align: center; font-size: 40px;"><strong>Hack A Bit: Cryptography</strong></p> -->
+<!-- rip HTML formatting in github -->
+# Hack A Bit: Cryptography
 
 ---
 ---
